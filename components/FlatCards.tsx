@@ -7,7 +7,7 @@ export default function FlatCards() {
       <Text style ={styles.headingText}>FlatCards</Text>
       <View style={styles.container}>
         <View style={[styles.card, styles.cardOne]}>
-          <Text> Red</Text>
+          <Text> Red Color</Text>
         </View>
         <View style={[styles.card, styles.cardTwo]}>
           <Text> Blue Color</Text>
