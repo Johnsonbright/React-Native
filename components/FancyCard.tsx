@@ -30,7 +30,7 @@ fontWeight: 'bold',
 paddingHorizontal: 8.2
   },
   card:{
-    width: 350,
+    width: 352,
     height: 350,
     borderRadius:6,
     marginVertical: 12,
