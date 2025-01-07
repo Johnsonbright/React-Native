@@ -32,7 +32,7 @@ paddingHorizontal: 8.2
   card:{
     width: 351,
     height: 351,
-    borderRadius:6,
+    borderRadius:6.2,
     marginVertical: 12,
     marginHorizontal:16,
 
